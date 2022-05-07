@@ -1,0 +1,25 @@
+.bar{
+    border-radius: 8px;
+    width: 280px;
+    height: 30px;
+    align-content: center;
+    display: inline-block;
+    padding: 10px;
+    margin-right: 5px;
+    
+}
+
+.bar:hover{
+    border: 1px solid grey;
+}
+
+.buton{
+    background-color: gray;
+    border-color: gray;
+    color: white;
+    border-radius: 8px;
+}
+
+.buton:hover{
+    background-color: black;
+}

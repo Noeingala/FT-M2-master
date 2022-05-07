@@ -1,0 +1,29 @@
+.tarjeta {
+    width: 250px;
+    height: 250px;
+    align-content: center;
+    border-radius: 10px;
+    border: 1px solid darkslategrey;
+    background-color: darkgrey;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.tarjeta:hover {
+    border: 1px solid darkslategrey;
+    box-shadow: 5px 5px darkgray;
+}
+
+
+.gral {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.nombre {
+    color: white;
+    font-size: 30px;
+    margin-top: 20px;
+}

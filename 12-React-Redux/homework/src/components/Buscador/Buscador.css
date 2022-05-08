@@ -1,15 +1,57 @@
 .cnt {
     padding-top: 10px;
+    margin-left: 10px;
 }
 .form-container {
     display:flex;
     flex-direction: row;
     align-items: flex-start;
+    margin-left: 20px;
+    color: white;
+    font-size: 15px;
 }
 
 .form-container button {
-    margin-left: 20px;
+    margin-left: 10px;
+    border-radius: 8px;
+    color: white;
+    font-size: 17px;
+    
 }
-.label {
+
+.btn {
+    margin-left: 20px;
+    background-color: #404041;
+    margin-top: 10px;
+    border: #282c34 solid 3px ;
     padding-right: 10px;
+
+}
+.btn:hover {
+    background-color: #213b70;
+}
+
+.label {
+    padding-right: 20px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.pelis {
+    color: gray;
+    font-size: 20px;
+    text-decoration: #282c34;
+   
+}
+
+.pelis:hover {
+    color: white;
+}
+
+.add {
+    margin-left: 20px;
+    border-color: #404041;
+    margin-top: 12px;
 }

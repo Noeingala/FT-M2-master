@@ -40,8 +40,7 @@
     border-bottom: 4px solid transparent;
 }
 
-.list-item a:hover,
-.list-item a.active {
-    background-color: #808080;
-    color: white;
+.list-item a:hover {
+    color: #000000;
+
 }
